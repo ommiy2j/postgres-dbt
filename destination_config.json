@@ -1,0 +1,1 @@
+{"ssl":false,"host":"postgresql-123768-0.cloudclusters.net","port":14120,"schema":"public","database":"airbyte","password":"1234567890","ssl_mode":{"mode":"disable"},"username":"root","tunnel_method":{"tunnel_method":"NO_TUNNEL"}}
